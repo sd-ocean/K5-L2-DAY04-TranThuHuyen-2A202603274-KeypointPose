@@ -1,0 +1,65 @@
+{
+ "mssv": "2A202603274",
+ "ten": "TranThuHuyen",
+ "pool_version": "d04-k5-v2",
+ "cvat_user": "2A202603274",
+ "project": "d04-keypoint",
+ "persons": [
+  "000000021235.jpg",
+  "000000184224.jpg",
+  "000000240340.jpg",
+  "000000294329.jpg",
+  "000000343057.jpg",
+  "000000302102.jpg",
+  "000000393909.jpg",
+  "000000580257.jpg",
+  "000000311300.jpg",
+  "000000391222.jpg",
+  "000000572411.jpg",
+  "000000381889.jpg"
+ ],
+ "faces": [
+  "face_10579.jpg",
+  "face_421231.jpg",
+  "face_469647.jpg",
+  "face_137371.jpg",
+  "face_185015.jpg",
+  "face_514826.jpg",
+  "face_309728.jpg",
+  "face_41666.jpg"
+ ],
+ "tasks": {
+  "persons": {
+   "task_id": 5,
+   "job_id": 5,
+   "task_name": "persons-TranThuHuyen"
+  },
+  "faces": {
+   "task_id": 6,
+   "job_id": 6,
+   "task_name": "faces-TranThuHuyen"
+  },
+  "persons-extra": {
+   "task_id": 7,
+   "job_id": 7,
+   "task_name": "persons-extra-TranThuHuyen"
+  },
+  "faces-extra": {
+   "task_id": 8,
+   "job_id": 8,
+   "task_name": "faces-extra-TranThuHuyen"
+  }
+ },
+ "persons_extra": [
+  "000000074156.jpg",
+  "000000161603.jpg",
+  "000000357549.jpg"
+ ],
+ "faces_extra": [
+  "face_274219.jpg",
+  "face_300200.jpg",
+  "face_344941.jpg",
+  "face_379585.jpg",
+  "face_494518.jpg"
+ ]
+}
