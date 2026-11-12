@@ -309,11 +309,11 @@ Bộ ảnh bonus faces: `face_274219.jpg`, `face_300200.jpg`, `face_344941.jpg`,
 
 | Ảnh | Loại | `num_keypoints` | Điểm v=1 | Ghi chú |
 |---|---|---:|---|---|
-| face_274219.jpg | Skeleton | 13 | tất cả v=2 | Nhận diện rõ tất cả điểm |
-| face_300200.jpg | Skeleton | 13 | `mouth_left`, `mouth_right` | Khóe miệng bị che/mờ nhẹ |
-| face_344941.jpg | Skeleton | 13 | tất cả v=2 | Nhận diện rõ tất cả điểm |
-| face_379585.jpg | Skeleton | 13 | tất cả v=2 | Nhận diện rõ tất cả điểm |
-| face_494518.jpg | Skeleton | 13 | tất cả v=2 | Nhận diện rõ tất cả điểm |
+| face_274219.jpg | Mặt thẳng | 13 | tất cả v=2 | Nhận diện rõ tất cả điểm |
+| face_300200.jpg | Mặt thẳng | 13 | `mouth_left`, `mouth_right` | Khóe miệng bị che/mờ nhẹ |
+| face_344941.jpg | Mặt thẳng | 13 | tất cả v=2 | Nhận diện rõ tất cả điểm |
+| face_379585.jpg | Mặt thẳng | 13 | tất cả v=2 | Nhận diện rõ tất cả điểm |
+| face_494518.jpg | Mặt thẳng | 13 | tất cả v=2 | Nhận diện rõ tất cả điểm |
 
 Tổng: 5 skeleton, num_keypoints trung bình 13.0, v=2: 63 (97%) · v=1: 2 (3%) · v=0: 0 (0%).
 
